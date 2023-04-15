@@ -1,0 +1,5 @@
+;config.ini
+[DEFAULT]
+USER_AGENT = 
+TIME_OUT = set timeout in seconds
+PARSER = html.parser | lxml | lxml-xml | xml | html5lib
