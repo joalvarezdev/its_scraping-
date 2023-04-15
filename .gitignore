@@ -1,0 +1,6 @@
+### ENV ###
+env/
+__pycache__/
+
+### Config ###
+*.ini
